@@ -1,5 +1,8 @@
-layout: post
 theme: jekyll-theme-slate
 markdown: maruku
 comments: true
-title:  "still trying"
+layout: post
+title: "Test math"
+category: misc
+tags: [test]
+use_math: true
