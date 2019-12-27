@@ -1,5 +1,5 @@
 layout: post
 theme: jekyll-theme-slate
-mathjax: true
+markdown: maruku
 comments: true
 title:  "still trying"
